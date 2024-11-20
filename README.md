@@ -1,3 +1,2 @@
-# based-theme README
 
-This theme is based 
+![VScode Screenshot](vscode.png)
